@@ -1,0 +1,4 @@
+class VisePresident extends Manager{
+
+}
+
