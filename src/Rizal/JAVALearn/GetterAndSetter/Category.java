@@ -21,5 +21,6 @@ public class Category {
 
     public void setExpensive(boolean expensive) {
         Expensive = expensive;
+
     }
 }
