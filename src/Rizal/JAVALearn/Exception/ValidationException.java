@@ -1,4 +1,4 @@
-package Rizal.JAVALearn.Error;
+package Rizal.JAVALearn.Exception;
 
 public class ValidationException extends Throwable {
 

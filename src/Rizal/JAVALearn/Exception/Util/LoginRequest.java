@@ -1,4 +1,4 @@
-package Rizal.JAVALearn.Error.Util;
+package Rizal.JAVALearn.Exception.Util;
 
 public class LoginRequest {
 
@@ -21,7 +21,7 @@ public class LoginRequest {
         this.password = password;
     }
 
-    public LoginRequest() {
+    public LoginRequest(String username, String password) {
         this.username = username;
         this.password = password;
     }
